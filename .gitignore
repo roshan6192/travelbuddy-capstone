@@ -47,6 +47,7 @@ secrets.json
 *.pem
 *.key
 *.crt
+*.env
 
 # Local runtime files
 instance/

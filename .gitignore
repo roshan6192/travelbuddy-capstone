@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.env/
+.tbenv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Packaging
+dist/
+build/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+htmlcov/
+.coverage
+
+# Secrets / credentials
+# (Never commit API keys; keep them only in .env locally)
+secrets.json
+*.pem
+*.key
+*.crt
+
+# Local runtime files
+instance/
+.local/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Node (if any)
+node_modules/
+
+# MacOS Finder
+.Spotlight-V100
+.Trashes
+
+# Windows
+ehthumbs.db
+Desktop.ini
+
+# Notebook checkpoints or outputs
+*.nbconverted
+output/
+
+# Misc
+*.sqlite3
+*.db
+
+# TravelBuddy specific
+session_store.json  # optional: remove if you want to track sessions in git; consider keeping it out for privacy
+travelbuddy_kaggle_notebook.ipynb

@@ -1,0 +1,14 @@
+{
+  "users": {
+    "demo_user": {
+      "last_budget": 1200,
+      "last_request": "Plan a 7-day Europe backpacking trip",
+      "history": [
+        {
+          "request": "Plan a 7-day Europe backpacking trip",
+          "timestamp": "2025-02-15T10:30:00Z"
+        }
+      ]
+    }
+  }
+}
